@@ -1,0 +1,4 @@
+C:/Users/pavit/Downloads/Mobile_DETOX_Framework/DETOX_Framework/android/app/.cxx/Debug/3y571a2w/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+C:/Users/pavit/Downloads/Mobile_DETOX_Framework/DETOX_Framework/android/app/.cxx/Debug/3y571a2w/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+C:/Users/pavit/Downloads/Mobile_DETOX_Framework/DETOX_Framework/android/app/.cxx/Debug/3y571a2w/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+C:/Users/pavit/Downloads/Mobile_DETOX_Framework/DETOX_Framework/android/app/.cxx/Debug/3y571a2w/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

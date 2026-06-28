@@ -1,0 +1,6 @@
+# ninja log v5
+5	39	0	C:/Users/pavit/Downloads/Mobile_DETOX_Framework/DETOX_Framework/android/app/.cxx/Debug/3y571a2w/x86/CMakeFiles/cmake.verify_globs	367ad3399256a93d
+99	4271	8043493754694556	CMakeFiles/appmodules.dir/0d51b34dcf282abc7cd7ed69c6784105/DETOX_Framework/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	8dc0f2d58d32408
+1	4970	8043493761310609	CMakeFiles/appmodules.dir/OnLoad.cpp.o	585aa9b422ed17ee
+4971	5674	8043493768645401	C:/Users/pavit/Downloads/Mobile_DETOX_Framework/DETOX_Framework/android/app/build/intermediates/cxx/Debug/3y571a2w/obj/x86/libappmodules.so	2caf1796e939ed1e
+8	55	0	C:/Users/pavit/Downloads/Mobile_DETOX_Framework/DETOX_Framework/android/app/.cxx/Debug/3y571a2w/x86/CMakeFiles/cmake.verify_globs	367ad3399256a93d
